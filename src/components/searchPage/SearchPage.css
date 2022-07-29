@@ -1,0 +1,52 @@
+.flex-container{
+	display: flex;
+	flex-direction: column;
+	justify-content:  center;
+}
+
+.search-form{
+	display: flex;
+	justify-content: center;
+}
+
+.search-title{
+	text-align: center;
+	cursor: default;
+}
+.form-control{
+	max-width: 600px;
+	margin-right: 5px;
+}
+.search-results{
+	cursor: default;
+	margin-top: 20px;
+	height: 400px;
+	border-radius: 5px;
+	overflow: scroll;
+	display: flex;
+	justify-content: center;
+}
+.sort-by-field{
+	position: relative;
+}
+.sort-by-field-up::after{
+	position: absolute;
+	content: '';
+	background: url('../imgs/arrow_drop_up_FILL0_wght400_GRAD0_opsz48.png') 0 0/contain no-repeat;
+	margin: 0 6px 0 0;
+	width: 20px;
+	height: 20px;
+}
+.sort-by-field-down::after{
+	position: absolute;
+	content: '';
+	background: url('../imgs/arrow_drop_down_FILL0_wght400_GRAD0_opsz48.png') 0 0/contain no-repeat;
+	margin: 0 6px 0 0;
+	width: 20px;
+	height: 20px;
+}
+tbody tr:hover{
+	background-color: rgb(175, 175, 175);
+	transition: 0.2s;
+
+}

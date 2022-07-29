@@ -1,0 +1,46 @@
+.title-item{
+	margin-right: 50px;
+	color:black;
+}
+.header{
+	background-color:rgb(255 193 7);
+	padding: 5px;
+	margin: 0;
+	width: 100%;
+	position: fixed;
+	overflow: hidden;
+	z-index: 4;
+}
+.header-nav{
+	display: flex;
+	height: 70px;
+	margin-left: 20px;
+	align-items: center;
+}
+nav .active-page {
+	font-weight: 600;
+	padding:2px 5px;
+	font-size: 20px;
+	color: rgb(250, 247, 216);
+	background-color: rgb(141, 141, 139);
+	border-radius: 5px;
+	transition: 0.2s;
+	margin-right: 20px;
+}
+.title-item{
+	font-size: 24px;
+}
+.search-item, .home-item{
+	margin-right: 20px;
+	color: #000;
+}
+
+a, a:hover{
+	text-decoration: none;
+}
+a.title-item:hover{
+	color: #000;
+}
+a.home-item:hover, a.search-item:hover {
+	color:white;
+}
