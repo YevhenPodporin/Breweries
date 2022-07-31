@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.b4f33cf8.css",
-    "main.js": "/static/js/main.c4fc29c5.js",
-    "static/media/breweries.jpg": "/static/media/breweries.6da8210cba47715920d0.jpg",
-    "index.html": "/index.html",
-    "main.b4f33cf8.css.map": "/static/css/main.b4f33cf8.css.map",
-    "main.c4fc29c5.js.map": "/static/js/main.c4fc29c5.js.map"
+    "main.css": "/Breweries/static/css/main.b4f33cf8.css",
+    "main.js": "/Breweries/static/js/main.bc1d1158.js",
+    "static/media/breweries.jpg": "/Breweries/static/media/breweries.6da8210cba47715920d0.jpg",
+    "index.html": "/Breweries/index.html",
+    "main.b4f33cf8.css.map": "/Breweries/static/css/main.b4f33cf8.css.map",
+    "main.bc1d1158.js.map": "/Breweries/static/js/main.bc1d1158.js.map"
   },
   "entrypoints": [
     "static/css/main.b4f33cf8.css",
-    "static/js/main.c4fc29c5.js"
+    "static/js/main.bc1d1158.js"
   ]
 }
