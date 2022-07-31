@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Breweries/static/css/main.b4f33cf8.css",
-    "main.js": "/Breweries/static/js/main.f0b21d34.js",
+    "main.js": "/Breweries/static/js/main.e948de91.js",
     "static/media/breweries.jpg": "/Breweries/static/media/breweries.6da8210cba47715920d0.jpg",
     "index.html": "/Breweries/index.html",
     "main.b4f33cf8.css.map": "/Breweries/static/css/main.b4f33cf8.css.map",
-    "main.f0b21d34.js.map": "/Breweries/static/js/main.f0b21d34.js.map"
+    "main.e948de91.js.map": "/Breweries/static/js/main.e948de91.js.map"
   },
   "entrypoints": [
     "static/css/main.b4f33cf8.css",
-    "static/js/main.f0b21d34.js"
+    "static/js/main.e948de91.js"
   ]
 }
